@@ -5,14 +5,13 @@
 - 🔭 I’m currently working on exciting projects in **Java Spring Boot | React Native | Next.js**
 - 🌱 Learning more about **Microservices, Kafka, and Cloud Deployments**
 - 💬 Ask me about **Backend Development, Databases, and CI/CD**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **eyuelhaile29@gmail.com**
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eyuelhaile&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyuelhaile&theme=radical" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="160"/>
 </p>
 
 ---
