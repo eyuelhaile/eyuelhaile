@@ -11,7 +11,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eyuelhaile&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="160"/>
 </p>
 
 ---
