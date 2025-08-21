@@ -12,6 +12,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eyuelhaile&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyuelhaile&theme=radical" height="160"/>
 </p>
 
 ---
